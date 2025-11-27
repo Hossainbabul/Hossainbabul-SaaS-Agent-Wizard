@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Agent Wizard",
+  "description": "A futuristic UI for the AI SaaS Generator workflow. Uses Gemini to refine project requirements and simulates the multi-agent build process.",
+  "requestFramePermissions": []
+}
